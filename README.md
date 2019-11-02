@@ -1,25 +1,20 @@
-# Saruch-VideoHosting-Client
+# Saruch VideoHosting Client
 client to manage your videos in Saruch.co
-
-
-* copy videos/folders
-* move videos/folders
-* rename videos/folders
-* delete videos/folders
-* upload download videos with a realtime progress tracking
-* share videos
-* public/private videos
-* monetize/unmonetize video
-* Grab stream link in multiable video resolution (360-480-720-1080)
-* upload videos folder
-* upload zipped video
-* drag-drop upload
-* remote upload (direct url upload)
-* remote upload status monitor
-* search videos in your account
-* set/delete video thumbnail
-* grab video detailed information
-* multi videos upload
+* [x] copy, move, rename, delete videos/folders
+* [x] upload download videos with a realtime progress tracking
+* [x] share videos
+* [x] public/private videos
+* [x] monetize/unmonetize video
+* [x] Grab stream link in multiable video resolution (360-480-720-1080)
+* [x] upload videos folder
+* [x] upload zipped video
+* [x] drag-drop upload
+* [x] remote upload (direct url upload)
+* [x] remote upload status monitor
+* [x] search videos in your account
+* [x] set/delete video thumbnail
+* [x] grab video detailed information
+* [x] multi videos upload
 
 `Download:`
 [https://github.com/jamesheck2019/Saruch-VideoHosting-Client/releases](https://github.com/jamesheck2019/Saruch-VideoHosting-Client)
