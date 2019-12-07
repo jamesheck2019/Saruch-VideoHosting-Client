@@ -17,6 +17,6 @@ client to manage your videos in Saruch.co
 * [x] multi videos upload
 
 `Download:`
-[https://github.com/jamesheck2019/Saruch-VideoHosting-Client/releases](https://github.com/jamesheck2019/Saruch-VideoHosting-Client)
+[https://github.com/jamesheck2019/Saruch-VideoHosting-Client/releases](https://github.com/jamesheck2019/Saruch-VideoHosting-Client/releases)
 
 ![https://i.postimg.cc/P5CBx1cc/Saruch-Video-Hosting-Client-LWp-REN9-I5-R.png](https://i.postimg.cc/P5CBx1cc/Saruch-Video-Hosting-Client-LWp-REN9-I5-R.png)
